@@ -1,0 +1,5 @@
+1) Research on short listed problems
+
+2) Artifacts >> Projects >> Different design patterns, overall stratergies used under multiple Agent design
+   EX: Test Hardness
+   EX: Autonomous
