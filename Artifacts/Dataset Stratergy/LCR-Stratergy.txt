@@ -1,0 +1,30 @@
+What are the key outputs / deliverables of a Language Resource Manager in an AI / LLM organization?
+
+1. Language annotation guidelines
+2. Quality standards for each language
+3. Reviewed / validated multilingual datasets
+4. Freelancer / linguist resource pool readiness
+5. Language coverage plans (dialects, scripts, regions)
+6. Model output linguistic feedback reports
+7. Evaluation rubrics for fluency, accuracy, tone
+8. Escalation logs for recurring language issues
+9. Process pipelines for multilingual data delivery
+10. Throughput / quality dashboards for language operations
+11. Gap analysis for missing language data
+12. Recommendations to improve LLM / ASR / TTS language performance
+
+
+For a Language Resource Manager role focused on multilingual AI / LLM datasets, how valuable is a PhD in Linguistics or Computational Linguistics compared with a Master’s plus strong industry experience?
+
+Would a PhD be preferred mainly for:
+
+1. Deep grammar / syntax expertise
+2. Low-resource language research
+3. Evaluation framework design
+4. Annotation guideline creation
+5. Speech / text model quality analysis
+6. Managing complex multilingual edge cases
+7. Research collaboration with ML teams
+8. Building long-term language strategy
+
+Or is practical project execution experience often weighted more heavily?
